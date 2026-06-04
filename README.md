@@ -33,4 +33,4 @@ A RESTful API built with **Node.js, Express, TypeScript, and PostgreSQL** for ma
 
 ---
 
-## 📂 Project Structure
+
